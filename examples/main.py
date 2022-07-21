@@ -5,7 +5,7 @@ import discord #今回はdiscord.py V2を使うことにする。
 #pip install git+https://github.com/Rapptz/discord.py
 from discord import app_commands
 from discord.ui import Modal,text_input
-token="token"
+token="token"#BotのTokenを入力。
 
 
 intents = discord.Intents.default()
