@@ -11,4 +11,4 @@ PayPay自動受け取りのソースコード＆サンプルコード
 - サンプルコードはexamplesの中に入ってるので参考程度に。
 
 # 参考
-- discord.py V2でModalなどを使うときに<a href="https://qiita.com/YutoYuto990/items/1cc73811026c4e91b6bf">この</a>サイトを参考にしました。
+- サンプルコードでdiscord.py V2でModalなどを使うときに<a href="https://qiita.com/YutoYuto990/items/1cc73811026c4e91b6bf">この</a>サイトを参考にしました。
